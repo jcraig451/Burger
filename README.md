@@ -8,4 +8,4 @@
  click on the link! </p>
  <br>
  <br>
-<img src="app/public/assets/img/appscreen.jpg" alt="demo"  style="width:auto; height:auto;">
+<img src="public/assets/img/appscreen.jpg" alt="demo"  style="width:auto; height:auto;">

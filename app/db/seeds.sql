@@ -1,4 +1,4 @@
-INSERT INTO burgers (burger_name)
-    VALUES ("Double Quarter Pounder"),
-           ("Triple Quarter Pounder"),
-           ("Single");
+INSERT INTO burgers (burger_name, defoured)
+    VALUES ("Double Quarter Pounder", true),
+           ("Triple Quarter Pounder", false),
+           ("Single", false);
